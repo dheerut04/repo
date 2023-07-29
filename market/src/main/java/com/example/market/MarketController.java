@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/api/market")
+// @RequestMapping("/api/market")
 public class MarketController {
 
     private List<market> db = List.of(
